@@ -11,6 +11,8 @@
 | [openai-cookbook.md](./openai-cookbook.md) | OpenAI 官方示例与指南 | 71,872 ⭐ |
 | [composio-agent-orchestrator.md](./composio-agent-orchestrator.md) | 并行编码智能体编排器 | 3,805 ⭐ |
 | [openclaw.md](./openclaw.md) | 跨平台 AI 助手框架 | 271,027 ⭐ |
+| [claude-code-best-practice.md](./claude-code-best-practice.md) | Claude Code 最佳实践与工作流指南 | 12,036 ⭐ |
+| [learn-claude-code.md](./learn-claude-code.md) | 用 Bash 从零实现 Claude Code Agent | 22,668 ⭐ |
 
 ## 项目分类
 
@@ -25,6 +27,8 @@
 
 ### 📚 学习资源
 - OpenAI Cookbook
+- Claude Code Best Practice
+- Learn Claude Code
 
 ## 使用说明
 
