@@ -13,6 +13,7 @@
 | [openclaw.md](./openclaw.md) | 跨平台 AI 助手框架 | 271,027 ⭐ |
 | [claude-code-best-practice.md](./claude-code-best-practice.md) | Claude Code 最佳实践与工作流指南 | 12,036 ⭐ |
 | [learn-claude-code.md](./learn-claude-code.md) | 用 Bash 从零实现 Claude Code Agent | 22,668 ⭐ |
+| [prompt-eng-interactive-tutorial.md](./prompt-eng-interactive-tutorial.md) | Anthropic 官方推出的互动式 Prompt Engineering（提示词工程）教程 | 33,041 ⭐ |
 
 ## 项目分类
 
@@ -29,6 +30,7 @@
 - OpenAI Cookbook
 - Claude Code Best Practice
 - Learn Claude Code
+- Anthropic Prompt Engineering Interactive Tutorial
 
 ## 使用说明
 
