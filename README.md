@@ -14,6 +14,7 @@
 | [claude-code-best-practice.md](./claude-code-best-practice.md) | Claude Code 最佳实践与工作流指南 | 12,036 ⭐ |
 | [learn-claude-code.md](./learn-claude-code.md) | 用 Bash 从零实现 Claude Code Agent | 22,668 ⭐ |
 | [prompt-eng-interactive-tutorial.md](./prompt-eng-interactive-tutorial.md) | Anthropic 官方推出的互动式 Prompt Engineering（提示词工程）教程 | 33,041 ⭐ |
+| [Scrapling.md](./Scrapling.md) | 自适应的网页抓取框架，自动绕过反爬、支持动态渲染及 MCP Server | 29,212 ⭐ |
 
 ## 项目分类
 
@@ -25,6 +26,7 @@
 ### 🛠️ 开发工具
 - Google Workspace CLI
 - OpenClaw
+- Scrapling
 
 ### 📚 学习资源
 - OpenAI Cookbook
@@ -45,6 +47,7 @@
 ## 更新日志
 
 - **2026-03-06**: 初始创建，收集 5 个项目的介绍文档
+- **2026-03-13**: 添加项目 `Scrapling`
 
 ## 注意事项
 
