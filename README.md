@@ -17,6 +17,7 @@
 | [Scrapling.md](./Scrapling.md) | 自适应的网页抓取框架，自动绕过反爬、支持动态渲染及 MCP Server | 29,212 ⭐ |
 | [agent-cli.md](./agent-cli.md) | Hyperliquid 自主交易 Agent CLI，内置 14 种策略并支持 Skill/MCP 集成 | 240 ⭐ |
 | [agency-agents.md](./agency-agents.md) | 一套多领域、专业化的 AI Agent 角色预设集合，支持多代码助手工具 | 45,480 ⭐ |
+| [superpowers.md](./superpowers.md) | 针对 AI 编码助手的工程化开发工作流与 Agentic Skills 框架（强制 TDD 与系统化调试） | 85,552 ⭐ |
 
 ## 项目分类
 
@@ -26,6 +27,7 @@
 - OpenClaw
 - Nunchi agent-cli
 - Agency Agents
+- Superpowers
 
 ### 🛠️ 开发工具
 - Google Workspace CLI
