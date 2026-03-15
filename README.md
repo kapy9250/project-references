@@ -15,6 +15,7 @@
 | [learn-claude-code.md](./learn-claude-code.md) | 用 Bash 从零实现 Claude Code Agent | 22,668 ⭐ |
 | [prompt-eng-interactive-tutorial.md](./prompt-eng-interactive-tutorial.md) | Anthropic 官方推出的互动式 Prompt Engineering（提示词工程）教程 | 33,041 ⭐ |
 | [Scrapling.md](./Scrapling.md) | 自适应的网页抓取框架，自动绕过反爬、支持动态渲染及 MCP Server | 29,212 ⭐ |
+| [agent-cli.md](./agent-cli.md) | Hyperliquid 自主交易 Agent CLI，内置 14 种策略并支持 Skill/MCP 集成 | 240 ⭐ |
 
 ## 项目分类
 
@@ -22,11 +23,13 @@
 - OpenAI Agents Python SDK
 - Composio Agent Orchestrator
 - OpenClaw
+- Nunchi agent-cli
 
 ### 🛠️ 开发工具
 - Google Workspace CLI
 - OpenClaw
 - Scrapling
+- Nunchi agent-cli
 
 ### 📚 学习资源
 - OpenAI Cookbook
