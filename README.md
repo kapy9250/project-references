@@ -19,6 +19,7 @@
 | [agency-agents.md](./agency-agents.md) | 一套多领域、专业化的 AI Agent 角色预设集合，支持多代码助手工具 | 45,480 ⭐ |
 | [superpowers.md](./superpowers.md) | 针对 AI 编码助手的工程化开发工作流与 Agentic Skills 框架（强制 TDD 与系统化调试） | 85,552 ⭐ |
 | [financial-services-plugins.md](./financial-services-plugins.md) | Anthropic 官方出品的金融服务领域专属 Agent 插件与 MCP 数据源集成 | 5,974 ⭐ |
+| [PageIndex.md](./PageIndex.md) | 无向量、无切块、基于多步推理与树状结构搜索的长文档 RAG 框架 | 21,836 ⭐ |
 
 ## 项目分类
 
@@ -30,6 +31,7 @@
 - Agency Agents
 - Superpowers
 - Anthropic Financial Services Plugins
+- PageIndex
 
 ### 🛠️ 开发工具
 - Google Workspace CLI
