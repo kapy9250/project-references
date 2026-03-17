@@ -20,6 +20,7 @@
 | [superpowers.md](./superpowers.md) | 针对 AI 编码助手的工程化开发工作流与 Agentic Skills 框架（强制 TDD 与系统化调试） | 85,552 ⭐ |
 | [financial-services-plugins.md](./financial-services-plugins.md) | Anthropic 官方出品的金融服务领域专属 Agent 插件与 MCP 数据源集成 | 5,974 ⭐ |
 | [PageIndex.md](./PageIndex.md) | 无向量、无切块、基于多步推理与树状结构搜索的长文档 RAG 框架 | 21,836 ⭐ |
+| [chrome-cdp-skill.md](./chrome-cdp-skill.md) | 让 AI 代理直接访问你实时 Chrome 会话的 CDP 控制工具 | 1985 ⭐ |
 
 ## 项目分类
 
@@ -38,6 +39,7 @@
 - OpenClaw
 - Scrapling
 - Nunchi agent-cli
+- chrome-cdp-skill
 
 ### 📚 学习资源
 - OpenAI Cookbook
