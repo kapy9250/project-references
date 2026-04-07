@@ -21,6 +21,7 @@
 | [financial-services-plugins.md](./financial-services-plugins.md) | Anthropic 官方出品的金融服务领域专属 Agent 插件与 MCP 数据源集成 | 5,974 ⭐ |
 | [PageIndex.md](./PageIndex.md) | 无向量、无切块、基于多步推理与树状结构搜索的长文档 RAG 框架 | 21,836 ⭐ |
 | [chrome-cdp-skill.md](./chrome-cdp-skill.md) | 让 AI 代理直接访问你实时 Chrome 会话的 CDP 控制工具 | 1985 ⭐ |
+| [awesome-design-md.md](./awesome-design-md.md) | Collection of DESIGN.md files that capture design systems from popular websites | 27,462 ⭐ |
 
 ## 项目分类
 
@@ -46,6 +47,9 @@
 - Claude Code Best Practice
 - Learn Claude Code
 - Anthropic Prompt Engineering Interactive Tutorial
+
+### 🎨 设计资源
+- awesome-design-md
 
 ## 使用说明
 
